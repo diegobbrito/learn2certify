@@ -14,19 +14,19 @@ It’s ideal for learners who want to **start from scratch**, **advance to profe
 
 ## 🗂️ Repository Structure
 
-📦 cloud-certification-guide/
-├── [aws/](./aws/)
-│   ├── [free.md](./aws/free.md)
-│   ├── [paid.md](./aws/paid.md)
-│   └── [certifications.md](./aws/certifications.md)
-├── [azure/](./azure/)
-│   ├── [free.md](./azure/free.md)
-│   ├── [paid.md](./azure/paid.md)
-│   └── [certifications.md](./azure/certifications.md)
-├── [gcp/](./gcp/)
-│   ├── [free.md](./gcp/free.md)
-│   ├── [paid.md](./gcp/paid.md)
-│   └── [certifications.md](./gcp/certifications.md)
+📦 learn2certify/  
+├── [aws/](./aws/)  
+│   ├── [free.md](./aws/free.md)  
+│   ├── [paid.md](./aws/paid.md)  
+│   └── [certifications.md](./aws/certifications.md)  
+├── [azure/](./azure/)  
+│   ├── [free.md](./azure/free.md)  
+│   ├── [paid.md](./azure/paid.md)  
+│   └── [certifications.md](./azure/certifications.md)  
+├── [gcp/](./gcp/)  
+│   ├── [free.md](./gcp/free.md)  
+│   ├── [paid.md](./gcp/paid.md)  
+│   └── [certifications.md](./gcp/certifications.md)  
 └── [README.md](./README.md)
 
 **Quick Access:**

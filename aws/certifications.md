@@ -11,8 +11,6 @@
 | [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Validates overall understanding of AWS Cloud concepts, pricing, and basic services. Ideal starting point. |
 | [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) | AWS Certified AI Practitioner validates in-demand knowledge of artificial intelligence (AI), machine learning (ML), and generative AI concepts and use cases. |
 
-
-
 ---
 
 ## 🧱 Associate Level
@@ -39,7 +37,7 @@
 
 ## 🎯 Specialty Certifications
 
-| Area | Link |
-|------|------|
-| Advanced Networking | [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) |
-| Security | [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) |
+| Certification | Description |
+|----------------|-------------|
+| [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) | Specialty validates expertise in complex networking tasks, requiring five years of hands-on experience architecting AWS network solutions.  |
+| [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) | Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. |

@@ -41,3 +41,4 @@
 |----------------|-------------|
 | [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) | Specialty validates expertise in complex networking tasks, requiring five years of hands-on experience architecting AWS network solutions.  |
 | [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) | Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. |
+| [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/) | Specialty validates your expertise in building and deploying machine learning solutions in the AWS Cloud. |

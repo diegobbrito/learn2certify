@@ -31,7 +31,7 @@
 |--------------|-------------|------------|
 | [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) | Advanced expertise in AWS architecture and design for complex systems. | **300** |
 | [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/) | Focused on automation, CI/CD, and monitoring of large‐scale systems. | **300** |
-| [AWS Certified Generative AI Developer – Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/) | Showcases advanced technical expertise in building and deploying production‑ready AI solutions using AWS Services like Bedrock. | **300** |
+| [AWS Certified Generative AI Developer – Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/) | Showcases advanced technical expertise in building and deploying production‑ready AI solutions using AWS Services like Bedrock. | **150** |
 
 ---
 
